@@ -25,9 +25,16 @@ Requires persistent anxiety tracking across multiple sessions, personalized plan
 - Anyone who experiences test anxiety
 
 ## Tools Used
-- **Google AI Studio** (Gemini 2.5 Flash) - AI logic and plan generation
-- **Google Stitch** - UI design and prototyping
-- **React + TypeScript** - Frontend framework
+•	Gemini + aistudio.google (ideation+Prompting)
+•	Google Stitch (UI design and prototyping)
+•	Google Opal (UI design and prototyping)
+•	Replit (UI design and prototyping)
+•	Base44 (UI design and prototyping)
+•	Kimi (UI design and prototyping)
+•	Rocket (UI design and prototyping)
+•	Google AI Studio (Gemini 2.5 Flash)
+•	React + TypeScript
+•	Material Design principles
 
 ## Time to Build
 ⏱️ 20 minutes (from concept to working prototype)
