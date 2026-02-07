@@ -57,7 +57,7 @@ Building apps that address mental health requires careful UX design. The app nee
 
 ---
 
-**Part of my 30-Day AI App Challenge**  
+**Part of my 30-day vibe-coding challenge.**  
 Building one industry-specific app every day using AI.
 
 Follow the journey:
