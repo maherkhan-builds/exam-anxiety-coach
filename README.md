@@ -15,8 +15,9 @@ An AI-powered app that generates personalized, anxiety-safe exam preparation pla
 - **Progress Tracking** - Monitor anxiety levels as exam approaches
 - **Confidence Boosting** - Positive reinforcement and realistic goal-setting
 
-## Why This Can't Be Done in ChatGPT
-Requires persistent anxiety tracking across multiple sessions, personalized plan adjustments based on progress data, and integration of calming techniques timed to student's stress levels. ChatGPT can give generic study advice but can't track individual anxiety patterns over time.
+## Why This Requires a Purpose-Built App
+General AI tools provide answers, but they work in isolated conversations. Exam anxiety needs continuity, personalization, and trust built over time.
+A dedicated app turns guidance into a system—remembering past inputs, adapting plans, and delivering support through a calming, student-friendly interface. This creates structure, emotional connection, and consistency, which are essential for real progress.
 
 ## Who This Is For
 - High school students preparing for AP exams or SATs
