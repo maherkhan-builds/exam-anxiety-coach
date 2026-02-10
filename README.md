@@ -25,6 +25,7 @@ Requires persistent anxiety tracking across multiple sessions, personalized plan
 - Anyone who experiences test anxiety
 
 ## Tools Used
+
 •	Gemini + aistudio.google (ideation+Prompting)
 •	Google Stitch (UI design and prototyping)
 •	Google Opal (UI design and prototyping)
