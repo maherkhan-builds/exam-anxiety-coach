@@ -1,7 +1,7 @@
 # Exam Anxiety Coach
 
 **Industry:** Education / EdTech  
-**Part of 30-Day AI App Challenge **
+**Part of my AI App Challenge Building -One AI app per day using vibe-coding (prompt → prototype), focused on one industry problem at a time. **
 
 ## The Problem
 40% of students experience test anxiety that negatively impacts their exam performance. They spend hours studying but freeze during actual tests. Traditional study plans don't account for anxiety triggers or individual stress patterns.
@@ -59,7 +59,7 @@ Building apps that address mental health requires careful UX design. The app nee
 
 ---
 
-**Part of my 30-day vibe-coding challenge.**  
+**Part of my AI App Challenge Building**  
 Building one industry-specific app every day using AI.
 
 Follow the journey:
