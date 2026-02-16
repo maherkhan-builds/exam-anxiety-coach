@@ -5,7 +5,7 @@ This project explores practical applications of LLM-powered systems using Google
 # Exam Anxiety Coach
 
 **Industry:** Education / EdTech  
-**Part of my AI App Challenge Building -One AI app per day using vibe-coding (prompt → prototype), focused on one industry problem at a time.**
+**Part of my AI App Challenge Building -One AI app per day using vibe-coding , focused on one industry problem at a time.**
 
 ## The Problem
 40% of students experience test anxiety that negatively impacts their exam performance. They spend hours studying but freeze during actual tests. Traditional study plans don't account for anxiety triggers or individual stress patterns.
