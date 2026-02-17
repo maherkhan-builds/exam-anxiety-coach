@@ -36,8 +36,6 @@ A dedicated app turns guidance into a system—remembering past inputs, adapting
 •	Google Opal (UI design and prototyping)
 •	Replit (UI design and prototyping)
 •	Base44 (UI design and prototyping)
-•	Kimi (UI design and prototyping)
-•	Rocket (UI design and prototyping)
 •	Google AI Studio (Gemini 2.5 Flash)
 •	React + TypeScript
 •	Material Design principles
