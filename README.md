@@ -1,7 +1,3 @@
-# Built with Generative AI
-
-This project explores practical applications of LLM-powered systems using Google Gemini and modern TypeScript architectures.
-
 # Exam Anxiety Coach
 
 **Industry:** Education / EdTech  
