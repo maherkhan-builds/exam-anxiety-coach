@@ -164,6 +164,7 @@ This app builds emotional resilience alongside academic readiness.
 Building one industry-specific AI app every day using vibe-coding.
 
 Prompt → Prototype → Iterate → Learn.
+https://exam-anxiety-coach.ai.studio/
 
 ---
 
